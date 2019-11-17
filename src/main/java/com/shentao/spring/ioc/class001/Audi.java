@@ -2,7 +2,6 @@ package com.shentao.spring.ioc.class001;
 
 public class Audi implements Car {
 
-
     public void start(){
         System.out.println("Audi.start");
     }
